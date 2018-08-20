@@ -113,6 +113,8 @@ CourseInstance
     "endtime":["2018-10-10 21:30:00","2018-10-16 22:00:00"],
     "teacher":"userid",
     "assistant":"userid",
+    "isfree":true,
+    "site": 100,    // 容纳人数
     "registrants":
     [
         "studentid","studentid","studentid"
