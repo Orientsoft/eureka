@@ -42,6 +42,7 @@ CourseTemplate
     "tags":["Hard","easy understanding","Hard point:defination"],
     "type": "基础班/提高班/超前班",
     "status": "opening/expired",
+    "star": 120,
     "details":
     {
         "steps":[
